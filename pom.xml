@@ -68,7 +68,7 @@
         <project.build.sourceEncoding>${project.encoding}</project.build.sourceEncoding>
         <project.build.propertiesEncoding>${project.encoding}</project.build.propertiesEncoding>
 
-        <spring.boot.version>3.4.5</spring.boot.version>
+        <spring.boot.version>3.4.6</spring.boot.version>
 
     </properties>
 
