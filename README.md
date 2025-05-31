@@ -124,3 +124,13 @@ class MyCfgTests() {
 ```
 
 Your own custom implementations with e.g. `@BeanOverride(YourCustomBeanOverrideProcessor.class)` will be discovered as well.
+
+# Prerequisites
+
+Minimum Java Version: 21 (LTS)
+
+| *beanoverride-in-config* Version | Supported Spring Boot Version(s) |
+|----------------------------------|----------------------------------|
+| 1.0                              | 3.4.5, 3.5.0                     |
+
+❌️ **Not supported**: Spring Boot ≦ 3.4.4 

@@ -5,7 +5,7 @@
 
     <groupId>io.github.duoduobingbing</groupId>
     <artifactId>beanoverride-in-config-starter-test</artifactId>
-    <version>3.4.5-1</version>
+    <version>1.0</version>
     <name>beanoverride-in-config-starter-test</name>
     <url>https://github.com/duoduobingbing/beanoverrideinconfigstartertest</url>
     <description>Make it possible again to use BeanOverride test beans in configuration test classes</description>
